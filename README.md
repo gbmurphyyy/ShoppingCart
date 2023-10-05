@@ -12,4 +12,4 @@ This React Project demonstrates basic functionality of a Shopping Cart:
 [LinkedIn](https://www.linkedin.com/in/gbmurphyy/)
 
 # License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
